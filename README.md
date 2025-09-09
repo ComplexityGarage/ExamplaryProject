@@ -1,6 +1,6 @@
 # Title of the project
 # Authors 
-- Jakub Bednarz 
+- Imię Nazwisko
 # Description of the project 
 Text here... 
 # Science and tech used 
