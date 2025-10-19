@@ -10,4 +10,5 @@ Text & plots here...
 # What next?
 Text here... 
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
+- [LoRa] (https://en.wikipedia.org/wiki/LoRa)
+- [Meshtastic] (https://meshtastic.org/)
